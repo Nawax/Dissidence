@@ -1,0 +1,11 @@
+<theme>
+    <name>NightMode - Dissidence</name>
+    <skinType>1</skinType>
+    <description>NightMode thème développé pour la guilde dissidence.</description>
+    <previewUri>Dissidence.jpg</previewUri>
+	<author>Nawax</author>
+    <version>2.55</version>
+    <dofusVersion>2.55</dofusVersion> 
+    <creationDate>01/07/2020</creationDate> 
+    <modificationDate>01/07/2020</modificationDate> 
+</theme>
